@@ -1,0 +1,17 @@
+# Site settings
+title: Xioustic
+email: xioustic@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Just a placeholder Jekyll build.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://xioustic.com" # the base hostname & protocol for your site
+twitter_username: xioustic
+github_username:  xioustic
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Github static settings
+safe: true
+lsi: false
