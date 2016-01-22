@@ -15,7 +15,7 @@ The bulk of time with clients is usually spent on feasability study over new tec
 ## Technology Stacks
 * **Frontend**: HTML5 & CSS3 (+Bootstrap), JavaScript (+jQuery, React)
 * **Backend**: Node.js (+Express), Python (+PyQt, Scrapy), Meteor, Bash Script, PHP5 (+Wordpress, Drupal), Erlang
-* **SysAdmin**: Windows Server 2008-2012, Most Linux Environments Environments (LPIC-1 Certified)
+* **SysAdmin**: Windows Server 2008-2012, Most Linux Environments (LPIC-1 Certified)
 * **VCS**: Git (+Github, Gitlab), Hg / Mercurial (+RedMine)
 * **SQL**: MySQL, MariaDB, PostgreSQL
 * **NoSQL**: Redis, MongoDB
