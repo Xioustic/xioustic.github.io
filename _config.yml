@@ -1,17 +1,28 @@
-# Site settings
-title: Xioustic
-email: xioustic@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Just a placeholder Jekyll build.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://xioustic.com" # the base hostname & protocol for your site
-twitter_username: xioustic
-github_username:  xioustic
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-# Build settings
-markdown: kramdown
-highlighter: pygments
+# Permalinks
+permalink:        pretty
 
-# Github static settings
-safe: true
-lsi: false
+# Setup
+title:            Xioustic
+tagline:          Homepage and Blog for Xioustic Computer Services
+description:      ""
+url:              https://xioustic.com/
+baseurl:          /
+
+author:
+  name:           'Xioustic'
+  url:            https://xioustic.com/
+
+paginate:         5
+paginate_path:    "page:num"
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/xioustic/xioustic.github.io
+
+gems:             [jekyll-paginate,jekyll-gist]
