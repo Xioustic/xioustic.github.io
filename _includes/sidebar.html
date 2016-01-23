@@ -7,21 +7,7 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="social">
-        <span class="fa-stack">
-          <i class="fa fa-circle fa-stack-2x"></i>
-          <a href="https://twitter.com/xioustic"><i class="fa fa-twitter fa-stack-1x"></i></a>
-        </span>
-        <span class="fa-stack">
-          <i class="fa fa-circle fa-stack-2x"></i>
-          <a href="https://github.com/xioustic"><i class="fa fa-github fa-stack-1x"></i></a>
-        </span>
-        
-        <span class="fa-stack">
-          <i class="fa fa-circle fa-stack-2x"></i>
-          <a href="http://x.co/cferrier"><i class="fa fa-linkedin fa-stack-1x"></i></a>
-        </span>
-      </p>
+
       <p class="lead">{{ site.description }}</p>
 
     </div>
@@ -44,10 +30,23 @@
       {% endfor %}
 
       <hr>
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-      <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+            <p class="social">
+        <span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <a href="https://twitter.com/xioustic"><i class="fa fa-twitter fa-stack-1x"></i></a>
+        </span>
+        <span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <a href="https://github.com/xioustic"><i class="fa fa-github fa-stack-1x"></i></a>
+        </span>
+        
+        <span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <a href="http://x.co/cferrier"><i class="fa fa-linkedin fa-stack-1x"></i></a>
+        </span>
+      </p>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; Xioustic Computer Services {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

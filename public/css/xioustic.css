@@ -14,3 +14,16 @@
 .social a {
     color: lightgrey;
 }
+
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    left: 1rem;
+    }
+  }
+
+  .sidebar {
+    background-color: #111;
+  }
