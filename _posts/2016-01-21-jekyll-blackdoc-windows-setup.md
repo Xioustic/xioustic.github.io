@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I Got Jekyll + BlackDoc Theme Working in Windows
+comments: true
 tags:
  - jekyll
  - windows
