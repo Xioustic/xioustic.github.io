@@ -1,0 +1,12 @@
+.sidebar-logo {
+  display: none;
+  max-height: 100px;
+  margin: 0 auto;
+}
+
+@media (min-width: 48em) {
+  .sidebar-logo {
+    max-height: 100px;
+    margin: 0 0;
+  }
+}
