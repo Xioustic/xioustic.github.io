@@ -11,18 +11,18 @@ tags:
 Just quickly dumping a benchmark for my $14/yr Hostodo VPS, purchased on the deal from LowEndBox [here](https://lowendbox.com/blog/hostodo-kvm-and-openvz-offer-from-14year/).
 
 Advertised Specs:
-> OpenVZ-1024
-> 1024MB RAM
-> 1024MB vSwap
-> 90GB Disk Space
-> 5TB Bandwidth
-> 4 vCPU Cores
-> 1 IPv4 Address
-> /112 IPv6 Subnet
-> Internal networking available to communicate between VPSs in the same location
-> 1Gbit Port
-> 3Gbit DDoS Protection / 1.5 Million PPS
-> OpenVZ/Virtualizor Control Panel
+> - OpenVZ-1024
+> - 1024MB RAM
+> - 1024MB vSwap
+> - 90GB Disk Space
+> - 5TB Bandwidth
+> - 4 vCPU Cores
+> - 1 IPv4 Address
+> - /112 IPv6 Subnet
+> - Internal networking available to communicate between VPSs in the same location
+> - 1Gbit Port
+> - 3Gbit DDoS Protection / 1.5 Million PPS
+> - OpenVZ/Virtualizor Control Panel
 
 I used the hostbench.io benchmark script located [here](https://github.com/Lomand/hostbench.sh). Portions of their site and functionality are broken, but the benchmark seems to run fine regardless.
 
