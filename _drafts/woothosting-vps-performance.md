@@ -12,11 +12,11 @@ Just quickly dumping a benchmark for my $36/yr BOGO WootHosting VPS, purchased o
 
 Advertised Specs:
 > Host Node Specifications:
-> – Intel Xeon E3-1230 V2 3.30 GHz
-> – 32GB DDR3 RAM
-> – 4x 2TB HDDs
-> – Hardware RAID10
-> – Full Duplex 1Gbps uplink
+> - Intel Xeon E3-1230 V2 3.30 GHz
+> - 32GB DDR3 RAM
+> - 4x 2TB HDDs
+> - Hardware RAID10
+> - Full Duplex 1Gbps uplink
 > 
 > VPS Specifications:
 > - 2048MB RAM
