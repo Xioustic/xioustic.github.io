@@ -11,6 +11,13 @@ tags:
 Just quickly dumping a benchmark for my $14/yr Hostodo VPS, purchased on the deal from LowEndBox [here](https://lowendbox.com/blog/hostodo-kvm-and-openvz-offer-from-14year/).
 
 Advertised Specs:
+> [b]Host Node Specifications:[/b]
+> – Dual Intel Xeon E5-2620 Hex Core
+> – 96GB DDR3 RAM
+> – 4x 2TB HDDs
+> – Hardware RAID-10 via LSI 9271-4i w/CVM
+> – 1Gbps uplink
+> [b]VPS Specifications:[/b]
 > - OpenVZ-1024
 > - 1024MB RAM
 > - 1024MB vSwap
