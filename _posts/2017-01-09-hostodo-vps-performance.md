@@ -17,6 +17,7 @@ Advertised Specs:
 > - 4x 2TB HDDs
 > - Hardware RAID-10 via LSI 9271-4i w/CVM
 > - 1Gbps uplink
+> 
 > VPS Specifications:
 > - OpenVZ-1024
 > - 1024MB RAM
