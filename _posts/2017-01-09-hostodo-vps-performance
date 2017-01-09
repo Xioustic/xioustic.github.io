@@ -8,7 +8,7 @@ tags:
  - benchmark
 ---
 
-Just quickly dumping a benchmark for my Hostodo VPS, purchased on the deal from LowEndBox here: https://lowendbox.com/blog/hostodo-kvm-and-openvz-offer-from-14year/
+Just quickly dumping a benchmark for my $14/yr Hostodo VPS, purchased on the deal from LowEndBox here: https://lowendbox.com/blog/hostodo-kvm-and-openvz-offer-from-14year/
 
 I used the hostbench.io benchmark script located here: https://github.com/Lomand/hostbench.sh. Portions of their site and functionality are broken, but the benchmark seems to run fine regardless.
 
