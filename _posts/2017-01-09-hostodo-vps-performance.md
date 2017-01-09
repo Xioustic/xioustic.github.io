@@ -12,11 +12,11 @@ Just quickly dumping a benchmark for my $14/yr Hostodo VPS, purchased on the dea
 
 Advertised Specs:
 > Host Node Specifications:
-> – Dual Intel Xeon E5-2620 Hex Core
-> – 96GB DDR3 RAM
-> – 4x 2TB HDDs
-> – Hardware RAID-10 via LSI 9271-4i w/CVM
-> – 1Gbps uplink
+> - Dual Intel Xeon E5-2620 Hex Core
+> - 96GB DDR3 RAM
+> - 4x 2TB HDDs
+> - Hardware RAID-10 via LSI 9271-4i w/CVM
+> - 1Gbps uplink
 > VPS Specifications:
 > - OpenVZ-1024
 > - 1024MB RAM
