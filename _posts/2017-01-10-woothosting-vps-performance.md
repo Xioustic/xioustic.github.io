@@ -8,7 +8,7 @@ tags:
  - benchmark
 ---
 
-A review for the WootHosting VPS deal posted on LowEndBox.
+A review for the "WootHosting – BOGO 2GB OpenVZ VPS for $36/yr" deal posted on LowEndBox.
 
 ## The Deal
 This deal was purchased per the deal on LowEndBox [here](https://lowendbox.com/blog/woothosting-bogo-2gb-openvz-vps-for-36yr-and-more/). The pricing is $36 USD annually, but you get two identical VPS at the advertised specifications for the price.
