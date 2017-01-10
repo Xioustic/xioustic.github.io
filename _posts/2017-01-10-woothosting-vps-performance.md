@@ -243,11 +243,11 @@ Benchmarking maximum throughput between server and single user in different loca
 ```
 
 ### Results
-Oddly, the two machines benchmarked at very different speeds. I contacted support to verify both were on a 1Gbps line, so still awaiting their reply on that. Will repost benchmarks if any change is noticed.
+Oddly, the two machines benchmarked at very different download speeds. I contacted support to verify both were on a 1Gbps line, so still awaiting their reply on that. Will repost benchmarks if any change is noticed.
 
 ## Other Concerns
 This host sends usernames and passwords through plaintext via e-mail, but that seems par for the course for most providers. Still terrible practice.
 
 More worrying is that the panel to reinstall your OS (https://manage.woothosting.com/) has no valid cert. It is a self-signed cert by "PHX1-2008", which I am assume is PhoenixNAP's internal certificate. It has no connection to any certificate chain though, so you cannot verify its validity to prevent a man-in-the-middle attack which could be used to trivially hijack your server and/or account. In addition, even if the cert had a valid certificate chain, its signature uses a SHA1 hash which is trivial to brute force and imitate for many black hats today. No good.
 
-You can avoid the above issues by *never* accessing the manage.woothosting.com panel, asking customer support to perform the reinstall, and change all passwords immediately after your account is opened.
+You can avoid the above issues by *never* accessing the manage.woothosting.com panel, asking customer support to perform the reinstall if needed, and change all passwords immediately after your account is opened.
