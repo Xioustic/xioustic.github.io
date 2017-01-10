@@ -35,7 +35,6 @@ I used the hostbench.io benchmark script located [here](https://github.com/Loman
 
 ## Benchmark (VPS #1)
 ```
-woothosting1 2017-01-09:
 Distro: "Ubuntu 16.04.1 LTS"
 DiskSize: 30 GB
 RAMSize: 2048 MB
@@ -139,7 +138,6 @@ Benchmarking maximum throughput between server and single user in different loca
 
 ## Benchmark (VPS #2)
 ```
-woothosting2:
 Distro: "Ubuntu 16.04.1 LTS"
 DiskSize: 30 GB
 RAMSize: 2048 MB
