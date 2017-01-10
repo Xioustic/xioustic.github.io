@@ -31,9 +31,10 @@ Just quickly dumping a benchmark for my $36/yr BOGO WootHosting VPS, purchased o
 > - No Coupon Needed
 > - $36/year
 
-I used the hostbench.io benchmark script located [here](https://github.com/Lomand/hostbench.sh). Portions of their site and functionality are broken, but the benchmark seems to run fine regardless.
+## Benchmarks
+I used the hostbench.io benchmark script located [here](https://github.com/Lomand/hostbench.sh). Portions of their site and functionality are broken, but the benchmark seems to run fine regardless. It builds sysbench-1.0 (for CPUscore), fio (for IO testing), and aria2 (for bandwidth tests) from scratch for its benchmarks.
 
-## Benchmark (VPS #1)
+### Benchmark 1 (VPS #1)
 ```
 Distro: "Ubuntu 16.04.1 LTS"
 DiskSize: 30 GB
@@ -136,7 +137,7 @@ Benchmarking maximum throughput between server and single user in different loca
 1.8MiB/s
 ```
 
-## Benchmark (VPS #2)
+### Benchmark 2 (VPS #2)
 ```
 Distro: "Ubuntu 16.04.1 LTS"
 DiskSize: 30 GB
@@ -238,6 +239,7 @@ Benchmarking maximum throughput between server and single user in different loca
 6.4MiB/s
 ```
 
+### Results
 Oddly, the two machines benchmarked at very different speeds. I contacted support to verify both were on a 1Gbps line, so still awaiting their reply on that. Will repost benchmarks if any change is noticed.
 
 ## Other Concerns
