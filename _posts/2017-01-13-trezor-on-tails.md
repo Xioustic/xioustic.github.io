@@ -8,6 +8,7 @@ tags:
  - electrum
  - trezor
  - privacy
+ - guide
 ---
 
 I was really disappointed my Trezor didn't work out-of-the-box with Electrum on Tails. I believe it's in the pipeline for the next major release of Tails, but not sure when that will be. That doesn't do me any good today, and I really don't want to use my Trezor outside of Tails if I can avoid it.
