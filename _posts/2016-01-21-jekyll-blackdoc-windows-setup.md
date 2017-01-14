@@ -5,7 +5,7 @@ comments: true
 tags:
  - jekyll
  - windows
- - guides
+ - guide
 ---
 
 What better blog post to start out with than notes on how I got Jekyll and BlackDoc working on Windows 10? If anything, this will be useful for my reference next time I wipe my workstation and need to start over.
