@@ -1,3 +1,15 @@
+---
+layout: post
+title: Getting Trezor to Work With Tails
+comments: true
+tags:
+ - bitcoin
+ - tails
+ - electrum
+ - trezor
+ - privacy
+---
+
 I was really disappointed my Trezor didn't work out-of-the-box with Electrum on Tails. I believe it's in the pipeline for the next major release of Tails, but not sure when that will be. That doesn't do me any good today, and I really don't want to use my Trezor outside of Tails if I can avoid it.
 
 I couldn't find any guides or posts that walked through how to do it, so I figured it out. These instructions are good today, which for me is Tails 2.9.1, Electrum 2.7.17, and python-trezor 0.7.6-1.
