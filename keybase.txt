@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/xioustic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xioustic.com
+  * I am xioustic (https://keybase.io/xioustic) on keybase.
+  * I have a public key ASBdkzgaeGYJyIthtHJ6u6kQ4Bbwo6aYonOQHAJAIdwy7Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205d93381a786609c88b61b4727abba910e016f0a3a698a273901c024021dc32ed0a",
+      "host": "keybase.io",
+      "kid": "01205d93381a786609c88b61b4727abba910e016f0a3a698a273901c024021dc32ed0a",
+      "uid": "ac791b76b107cb496f110e96c0ade119",
+      "username": "xioustic"
+    },
+    "merkle_root": {
+      "ctime": 1507879526,
+      "hash": "45f3665746c0791367814fc0f48823d7fd25f786411d9764425508e277ef7e00f506cba674d78a8e3b0dc1778344667abc3340074cbe0e0bb404a0dd29174941",
+      "hash_meta": "2ae993d2d6048b7020a93d22d542033d6cba6ad16e9c02913b7919ba54de4a46",
+      "seqno": 1570921
+    },
+    "service": {
+      "hostname": "xioustic.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507879535,
+  "expire_in": 504576000,
+  "prev": "bd6837324f389043030283407a814ef24501d2907ae64a80d5f387c9f3906e95",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXZM4GnhmCciLYbRyerupEOAW8KOmmKJzkBwCQCHcMu0Kp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWQ5MzM4MWE3ODY2MDljODhiNjFiNDcyN2FiYmE5MTBlMDE2ZjBhM2E2OThhMjczOTAxYzAyNDAyMWRjMzJlZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWQ5MzM4MWE3ODY2MDljODhiNjFiNDcyN2FiYmE5MTBlMDE2ZjBhM2E2OThhMjczOTAxYzAyNDAyMWRjMzJlZDBhIiwidWlkIjoiYWM3OTFiNzZiMTA3Y2I0OTZmMTEwZTk2YzBhZGUxMTkiLCJ1c2VybmFtZSI6Inhpb3VzdGljIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA3ODc5NTI2LCJoYXNoIjoiNDVmMzY2NTc0NmMwNzkxMzY3ODE0ZmMwZjQ4ODIzZDdmZDI1Zjc4NjQxMWQ5NzY0NDI1NTA4ZTI3N2VmN2UwMGY1MDZjYmE2NzRkNzhhOGUzYjBkYzE3NzgzNDQ2NjdhYmMzMzQwMDc0Y2JlMGUwYmI0MDRhMGRkMjkxNzQ5NDEiLCJoYXNoX21ldGEiOiIyYWU5OTNkMmQ2MDQ4YjcwMjBhOTNkMjJkNTQyMDMzZDZjYmE2YWQxNmU5YzAyOTEzYjc5MTliYTU0ZGU0YTQ2Iiwic2Vxbm8iOjE1NzA5MjF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoieGlvdXN0aWMuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDc4Nzk1MzUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYmQ2ODM3MzI0ZjM4OTA0MzAzMDI4MzQwN2E4MTRlZjI0NTAxZDI5MDdhZTY0YTgwZDVmMzg3YzlmMzkwNmU5NSIsInNlcW5vIjo0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBm7mW1Q4Ui9LV+tawJ3Oj9t5oeYcWWWjWj56Q9btP9Lu500orxjxCbD+1wjuFQZj/x2SGjK1RYnpTZ6S4CiOAyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCF4hDpWbaeQ3486vvy/1lkKpFYU3exdBKFpC8qsh8Zc6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xioustic
+
+==================================================================
