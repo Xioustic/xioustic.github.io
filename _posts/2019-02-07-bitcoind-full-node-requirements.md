@@ -9,7 +9,9 @@ tags:
  - benchmark
  - meetup
 ---
-Some of those that showed up to last night's [Phoenix Bitcoin Meetup](https://www.meetup.com/Arizona-Bitcoin-Meetup/events/257998536/) showed interest in running a full node / lightning node, possibly on a Raspberry Pi or Odroid single-board computer. There were questions about system requirements. I believe a baseline requirement for a lightning node is running a full node, so I thought I'd give my observations running a full node at almost pure default settings (no custom .conf file) run with this command: `bitcoind -conf=$(pwd)/bitcoin.conf -datadir=$(pwd) -txindex -logips -server -rpcpassword=$BTC_RPC_PASSWORD -rpcuser=$BTC_RPC_USER -daemon -disablewallet`
+Some of those that showed up to last night's [Phoenix Bitcoin Meetup](https://www.meetup.com/Arizona-Bitcoin-Meetup/events/257998536/) showed interest in running a full node / lightning node, possibly on a Raspberry Pi or Odroid single-board computer.
+
+There were questions about system requirements. I believe a baseline requirement for a lightning node is running a full node, so I thought I'd give my observations running a full node at almost pure default settings (no custom .conf file) run with this command: `bitcoind -conf=$(pwd)/bitcoin.conf -datadir=$(pwd) -txindex -logips -server -rpcpassword=$BTC_RPC_PASSWORD -rpcuser=$BTC_RPC_USER -daemon -disablewallet`
 
 My `bitcoind` (server) process is taking up 1.4GB of memory as it runs. It idles between 1-5% CPU (running an i7-4770 w/ 4 virtual cores). The bandwidth idles (ie not aggressively syncing the entire chain from scratch) at a constant 10KB/s. Keep in mind that means each week you're sucking 60*60*24*7=604800 =~ 605MB, or about 2.5GB a month.
 
