@@ -13,7 +13,7 @@ Please make checks or money orders out to "Christian Ferrier". Send to PO Box 90
 The following link can be used to send PayPal payment: [https://paypal.me/xioustic](https://paypal.me/xioustic)
 
 ## Cryptocurrency
-As Coinbase has discontinued their merchant services and as I wait for Coinbase Commerce to allow me to accept payments, Cryptocurrency payments must be done manually. Please e-mail me at [xioustic@pm.me](mailto:xioustic@pm.me) and I will reply with a payment address that will be signed in accordance with my [Keybase](https://xioustic.com/keybase.txt) or the GPG key on my business card.
+As Coinbase has discontinued their merchant services and as I wait for Coinbase Commerce to allow me to accept payments, Cryptocurrency payments must be done manually. Please e-mail me at [xioustic@pm.me](mailto:xioustic@pm.me) and I will reply with a payment address that will be signed in accordance with my [Keybase](https://xioustic.com/keybase.txt) or my GPG key.
 
 ## Confirm
 Utilizing any payment option, you should also send an e-mail to [xioustic@pm.me](mailto:xioustic@pm.me) to confirm receipt and credit applied to your account. Please specifically mention:
