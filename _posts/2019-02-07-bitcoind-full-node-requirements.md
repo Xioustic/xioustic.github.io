@@ -19,7 +19,7 @@ There were questions about system requirements. I believe a baseline requirement
     - My `bitcoind` (server) process is taking up 1.4GB of memory as it runs.
     - It idles between 1-5% CPU (running an i7-4770 w/ 4 virtual cores).
 - `nethogs`
-    - The bandwidth idles (ie not aggressively syncing the entire chain from scratch) at a constant 10KB/s. Keep in mind that means each week you're sucking 60\*60\*24\*7=604800 =~ 605MB, or about 2.5GB a month.
+    - The bandwidth idles (ie not aggressively syncing the entire chain from scratch) at a constant 10KB/s. Keep in mind that means each week you're using 60\*60\*24\*7=604800 =~ 605MB, or about 2.5GB a month.
 - `du`
     - The `blocks` directory containing the blockchain and its indices take up about 200GB.
     - The `chainstate` directory containing the utxo set is about 3GB.
