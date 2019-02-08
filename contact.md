@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+order: 4
 ---
 <i class="fa fa-envelope fa-fw fa-lg"></i> <a href="mailto:xioustic@pm.me">xioustic@pm.me</a><br />
 <i class="fa fa-lock fa-fw fa-lg"></i> <a href="{{ site.baseurl }}public/gpg.txt">GPG Key</a><br />
