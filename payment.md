@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Payments
+order: 3
 ---
 
 ## Cash
