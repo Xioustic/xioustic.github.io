@@ -95,6 +95,12 @@ Summarizing up by test type averages:
 | Overall                 | 86.19%  |	66.26%	| **93.11%** | NA     |
 
 ## Conclusions
-To be done at a later date. tl;dr VMWare Workstation is a great option if you can get it, Hyper-V is second best if you have it available as an OS feature, Virtualbox is a last resort. Windows Subsystem on Linux barely cuts it and in fact fails at running parallel processes (I think fork failed?).
+To be done at a later date.
+
+tl;dr:
+- VMWare Workstation is a great option if you can get it
+- Hyper-V is second best if you have it available as an OS feature
+- Virtualbox is a last resort
+- Windows Subsystem on Linux barely cuts it and in fact fails at running parallel processes (I think `fork` failed?).
 
 I'd be very interested in running the same systems through other benchmarks like `iperf` and others. I tried gathering suggestions on Reddit but mostly received criticism for wanting to do these benchmarks in the first place, which was unhelpful. I realize many are useless the way they are (like `bench.sh` speed testing to a remote datacenter, since my connection is certainly not consistent).
