@@ -11,10 +11,10 @@ tags:
  - windows subsystem for linux
  - virtualbox
 ---
+I figured I'd benchmark a standard Ubuntu Server install using each hypervisor (Hyper-V, VMWare Workstation, VirtualBox, Windows Subsystem for Linux (WSL)) in order to approximate how much sacrifice you're making between each. It should be noted these are not "apples-to-apples" comparisons. Hyper-V is a Type 1 Hypervisor (runs bare metal), VMWare Workstation & VirtualBox are Type 2 Hypervisors (runs within the host OS, in this case Windows), and WSL actually runs on a abstraction layer within Windows.
+
 ## Reasoning
 I've had to teach newbies in many of my workshops how to stick a hypervisor on their Windows machine in Linux-based workshops. This is when booting from a Live CD or Dual Booting is not an option. Many of them end up picking VirtualBox as the most convenient option. I've also been in a similar situation from time-to-time, especially in dev environments where we need to be done quick-and-dirty, where convenience and performance is something to be weighed.
-
-I figured I'd benchmark a standard Ubuntu Server install using each hypervisor (Hyper-V, VMWare Workstation, VirtualBox, Windows Subsystem for Linux (WSL)) in order to approximate how much sacrifice you're making between each. It should be noted these are not "apples-to-apples" comparisons. Hyper-V is a Type 1 Hypervisor (runs bare metal), VMWare Workstation & VirtualBox are Type 2 Hypervisors (runs within the host OS, in this case Windows), and WSL actually runs on a abstraction layer within Windows.
 
 Surprisingly I could not find anyone else doing these benchmarks on a modern install of Windows running Ubuntu. This is probably like, as prior mentioned, these are not apples-to-apples. Perhaps this is too unique a use-case to be useful for most. Regardless I will post the results for future reference in case it helps others.
 
