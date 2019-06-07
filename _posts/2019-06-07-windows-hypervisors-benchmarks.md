@@ -37,6 +37,7 @@ Essentially the process for provisioning was as follows:
 
 ## The Results
 ### Table
+
 | Type                  | Subtype                               | Hyper-V | Vbox   | Vmware  | WSL    | Hyper-V | Vbox    | Vmware  | WSL     |
 |-----------------------|---------------------------------------|---------|--------|---------|--------|---------|---------|---------|---------|
 | Bench.sh              | I/O Speed                             | 1911.5  | 429.7  | 1280.5  | 343    | 100.00% | 22.48%  | 66.99%  | 17.94%  |
