@@ -86,8 +86,9 @@ To be done at a later date; note if higher or lower is better per graph.
 To be done at a later date. Need to split into Disk I/O, Network I/O, CPU-based, Memory-based, Filesystem-based tests. Need to average those out per hypervisor.
 
 Summarizing up by test type averages:
+
 | Benchmark               | Hyper-V | Vbox   | VMWare | WSL    |
-|-----------              |---------|--------|--------|--------|
+|-------------------------|---------|--------|--------|--------|
 | Bench.sh                | 69.15%	 | **90.41%** |	84.13% |	66.56% |
 | Unixbench.sh            | 89.38%	 | 53.38%	| **98.37%**	| 33.84% |
 | Unixbench.sh (Parallel) | **98.74%**	 | 56.85%	| 96.14%	| NA     |
