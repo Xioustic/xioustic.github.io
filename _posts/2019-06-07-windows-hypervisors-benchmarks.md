@@ -85,7 +85,13 @@ To be done at a later date; note if higher or lower is better per graph.
 ### Notes
 To be done at a later date. Need to split into Disk I/O, Network I/O, CPU-based, Memory-based, Filesystem-based tests. Need to average those out per hypervisor.
 
-tl;dr Hyper-V averages 86.19%, Vbox averages 66.26%, VMWare averages 93.11%, WSL averages 49.55%.
+Summarizing up by test type averages:
+| Benchmark               | Hyper-V | Vbox   | VMWare | WSL    |
+|-----------              |---------|--------|--------|--------|
+| Bench.sh                | 69.15%	 | **90.41%** |	84.13% |	66.56% |
+| Unixbench.sh            | 89.38%	 | 53.38%	| **98.37%**	| 33.84% |
+| Unixbench.sh (Parallel) | **98.74%**	 | 56.85%	| 96.14%	| NA     |
+| Overall                 | 86.19%  |	66.26%	| **93.11%** | NA     |
 
 ## Conclusions
 To be done at a later date. tl;dr VMWare Workstation is a great option if you can get it, Hyper-V is second best if you have it available as an OS feature, Virtualbox is a last resort. Windows Subsystem on Linux barely cuts it and in fact fails at running parallel processes (I think fork failed?).
